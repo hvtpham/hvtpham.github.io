@@ -93,3 +93,7 @@ a {
 a.selected, a:hover {
   background: #CFF;
 }
+
+div.maincontentheading {
+    font-size: 125%;
+}
