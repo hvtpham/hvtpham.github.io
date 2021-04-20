@@ -96,4 +96,5 @@ a.selected, a:hover {
 
 div.maincontentheading {
     font-size: 125%;
+    font-weight: bold;
 }
